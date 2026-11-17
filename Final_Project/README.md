@@ -1,12 +1,16 @@
 # FINAL PROJECT IF 352
 
-# How to RUn This Project
+# Who am I?
+<!-- Nama -->
+Marvel Valenxius Gunawan
+<!-- NIM -->
+00000137145
 
-npm i
-To installed dependecies on packages
+# How to Run This Project
+node -v
+Your package installer is required on my project im using node js
 
-npm i react-dom
-Packages React Router Is Required to run routing of this project, to get best practices
+npm i && npm run dev
+To started installed dependecies on packages
 
-npm run dev
-
+# Features 
