@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi Gayo",
+    "category": "Coffee-Based",
+    "price": 22000,
+    "image": "kopi-gayo.jpg",
+    "description": "Kopi hitam single origin dari dataran tinggi Gayo, Aceh, dengan rasa fruity dan sedikit asam.",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Kopi Toraja",
+    "category": "Coffee-Based",
+    "price": 23000,
+    "image": "kopi-toraja.jpg",
+    "description": "Kopi khas Toraja dengan karakter earthy dan body yang kuat.",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Kopi Kintamani",
+    "category": "Coffee-Based",
+    "price": 22000,
+    "image": "kopi-kintamani.jpg",
+    "description": "Kopi dari dataran tinggi Kintamani, Bali, dengan sentuhan rasa jeruk yang segar.",
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Cappuccino",
+    "category": "Coffee-Based",
+    "price": 25000,
+    "image": "cappuccino.jpg",
+    "description": "Espresso dipadukan susu panas dan foam lembut di atasnya.",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Caramel Latte",
+    "category": "Coffee-Based",
+    "price": 27000,
+    "image": "caramel-latte.jpg",
+    "description": "Espresso, susu, dan sirup karamel dengan rasa manis yang pas.",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Matcha Latte",
+    "category": "Non-Coffee",
+    "price": 26000,
+    "image": "matcha-latte.jpg",
+    "description": "Bubuk teh hijau Jepang dicampur susu segar, creamy dan menyegarkan.",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Chocolate Milkshake",
+    "category": "Non-Coffee",
+    "price": 24000,
+    "image": "choco-milkshake.jpg",
+    "description": "Minuman cokelat dingin dengan whipped cream di atasnya.",
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Thai Tea",
+    "category": "Non-Coffee",
+    "price": 20000,
+    "image": "thai-tea.jpg",
+    "description": "Teh khas Thailand yang manis dan creamy dengan susu.",
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "Lemon Tea",
+    "category": "Non-Coffee",
+    "price": 18000,
+    "image": "lemon-tea.jpg",
+    "description": "Teh segar dengan perasan lemon asli, cocok untuk cuaca panas.",
+    "available": false
+  },
+  {
+    "id": 10,
+    "name": "Croissant Butter",
+    "category": "Snacks",
+    "price": 18000,
+    "image": "croissant.jpg",
+    "description": "Pastry berlapis mentega khas Prancis, renyah di luar dan lembut di dalam.",
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "Pisang Goreng Keju",
+    "category": "Snacks",
+    "price": 15000,
+    "image": "pisang-goreng.jpg",
+    "description": "Pisang goreng crispy dengan taburan keju parut dan susu kental manis.",
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "Roti Bakar Cokelat",
+    "category": "Snacks",
+    "price": 17000,
+    "image": "roti-bakar.jpg",
+    "description": "Roti bakar dengan isian cokelat leleh, disajikan hangat.",
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "Nasi Goreng Kampung",
+    "category": "Snacks",
+    "price": 28000,
+    "image": "nasi-goreng.jpg",
+    "description": "Nasi goreng sederhana ala kampung dengan telur mata sapi dan kerupuk.",
+    "available": true
+  }
+]
